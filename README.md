@@ -1,6 +1,5 @@
-# Password Strength Analyzer
-
-`password-strength-analyzer` is a utility for evaluating the strength of passwords. It provides a customizable and easy-to-use way to validate password strength, calculate entropy, and assign scores based on predefined rules. This tool can be used independently of any frameworks or libraries, making it versatile for various applications.
+# password strength estimator
+`password strength estimator` is a utility for evaluating the strength of passwords. It provides a customizable and easy-to-use way to validate password strength, calculate entropy, and assign scores based on predefined rules. This tool can be used independently of any frameworks or libraries, making it versatile for various applications.
 
 The analyzer is based on **entropy calculations** and **predefined regular expression rules**. These features ensure that password strength is assessed rigorously according to established security criteria.
 
